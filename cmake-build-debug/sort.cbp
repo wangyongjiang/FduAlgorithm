@@ -1,0 +1,1643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="sort"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2014-4">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/2014-4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 2014-4"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2014-4/fast">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/2014-4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 2014-4/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2014-3">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/2014-3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 2014-3"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2014-3/fast">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/2014-3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 2014-3/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2014-1">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/2014-1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 2014-1"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2014-1/fast">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/2014-1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 2014-1/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2013-2">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/2013-2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 2013-2"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2013-2/fast">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/2013-2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 2013-2/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2013-1">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/2013-1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 2013-1"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2013-1/fast">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/2013-1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 2013-1/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2012-3">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/2012-3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 2012-3"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2012-3/fast">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/2012-3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 2012-3/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2012-2">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/2012-2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 2012-2"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2012-2/fast">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/2012-2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 2012-2/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2011-1">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/2011-1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 2011-1"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2011-1/fast">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/2011-1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 2011-1/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020-5">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/2020-5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020-5"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020-5/fast">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/2020-5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020-5/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="stl">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/stl" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 stl"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="stl/fast">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/stl" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 stl/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HeapSort">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/HeapSort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 HeapSort"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HeapSort/fast">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/HeapSort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 HeapSort/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2021-1">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/2021-1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 2021-1"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2021-1/fast">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/2021-1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 2021-1/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020-3">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/2020-3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020-3"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020-3/fast">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/2020-3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020-3/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SimpleSelectSort">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/SimpleSelectSort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 SimpleSelectSort"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SimpleSelectSort/fast">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/SimpleSelectSort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 SimpleSelectSort/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020-2">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/2020-2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020-2"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020-2/fast">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/2020-2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020-2/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2018-2">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/2018-2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 2018-2"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2018-2/fast">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/2018-2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 2018-2/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2018-1">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/2018-1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 2018-1"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2018-1/fast">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/2018-1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 2018-1/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020-4">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/2020-4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020-4"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020-4/fast">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/2020-4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020-4/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2016-2">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/2016-2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 2016-2"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2016-2/fast">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/2016-2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 2016-2/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lcTest">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/lcTest" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 lcTest"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lcTest/fast">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/lcTest" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 lcTest/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Test">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 Test"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Test/fast">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 Test/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2011-2">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/2011-2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 2011-2"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2011-2/fast">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/2011-2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 2011-2/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="BubbleSort">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/BubbleSort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 BubbleSort"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="BubbleSort/fast">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/BubbleSort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 BubbleSort/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="io">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/io" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 io"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="io/fast">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/io" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 io/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MergeSort">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/MergeSort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 MergeSort"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MergeSort/fast">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/MergeSort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 MergeSort/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2017-2">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/2017-2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 2017-2"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2017-2/fast">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/2017-2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 2017-2/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2015-3">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/2015-3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 2015-3"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2015-3/fast">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/2015-3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 2015-3/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2018-5">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/2018-5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 2018-5"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2018-5/fast">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/2018-5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 2018-5/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2013-3">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/2013-3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 2013-3"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2013-3/fast">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/2013-3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 2013-3/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="QuickSort">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/QuickSort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 QuickSort"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="QuickSort/fast">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/QuickSort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 QuickSort/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ShellSort">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/ShellSort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 ShellSort"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ShellSort/fast">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/ShellSort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 ShellSort/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2016-3">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/2016-3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 2016-3"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2016-3/fast">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/2016-3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 2016-3/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2012-1">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/2012-1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 2012-1"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2012-1/fast">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/2012-1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 2012-1/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HalfInsertSort">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/HalfInsertSort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 HalfInsertSort"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HalfInsertSort/fast">
+				<Option output="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/HalfInsertSort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/x86_64-apple-darwin21"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include"/>
+					<Add directory="/usr/local/Cellar/gcc/11.2.0_3/bin/../lib/gcc/11/gcc/x86_64-apple-darwin21/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 HalfInsertSort/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wangyongjiang/CLionProjects/sort/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/wangyongjiang/CLionProjects/sort/2011-1-最长公共子序列LCS.cpp">
+			<Option target="2011-1"/>
+		</Unit>
+		<Unit filename="/Users/wangyongjiang/CLionProjects/sort/2011-2-中序与后序求层次遍历.cpp">
+			<Option target="2011-2"/>
+		</Unit>
+		<Unit filename="/Users/wangyongjiang/CLionProjects/sort/2012-1-1000名求前30.cpp">
+			<Option target="2012-1"/>
+		</Unit>
+		<Unit filename="/Users/wangyongjiang/CLionProjects/sort/2012-2-二叉树最大叶子间距.cpp">
+			<Option target="2012-2"/>
+		</Unit>
+		<Unit filename="/Users/wangyongjiang/CLionProjects/sort/2012-3-字符串的重复输出.cpp">
+			<Option target="2012-3"/>
+		</Unit>
+		<Unit filename="/Users/wangyongjiang/CLionProjects/sort/2013-1-字符串匹配.cpp">
+			<Option target="2013-1"/>
+		</Unit>
+		<Unit filename="/Users/wangyongjiang/CLionProjects/sort/2013-2-AFamousICPCTeam.cpp">
+			<Option target="2013-2"/>
+		</Unit>
+		<Unit filename="/Users/wangyongjiang/CLionProjects/sort/2013-3-AFamousGrid.cpp">
+			<Option target="2013-3"/>
+		</Unit>
+		<Unit filename="/Users/wangyongjiang/CLionProjects/sort/2014-1-二分查找次数.cpp">
+			<Option target="2014-1"/>
+		</Unit>
+		<Unit filename="/Users/wangyongjiang/CLionProjects/sort/2014-3-二叉树前中后序遍历.cpp">
+			<Option target="2014-3"/>
+		</Unit>
+		<Unit filename="/Users/wangyongjiang/CLionProjects/sort/2014-4-Hanoi塔.cpp">
+			<Option target="2014-4"/>
+		</Unit>
+		<Unit filename="/Users/wangyongjiang/CLionProjects/sort/2015-3-优先队列.cpp">
+			<Option target="2015-3"/>
+		</Unit>
+		<Unit filename="/Users/wangyongjiang/CLionProjects/sort/2016-2-后缀序列.cpp">
+			<Option target="2016-2"/>
+		</Unit>
+		<Unit filename="/Users/wangyongjiang/CLionProjects/sort/2016-3-哈夫曼编码.cpp">
+			<Option target="2016-3"/>
+		</Unit>
+		<Unit filename="/Users/wangyongjiang/CLionProjects/sort/2017-2-求解校验码.cpp">
+			<Option target="2017-2"/>
+		</Unit>
+		<Unit filename="/Users/wangyongjiang/CLionProjects/sort/2018-1-相隔天数.cpp">
+			<Option target="2018-1"/>
+		</Unit>
+		<Unit filename="/Users/wangyongjiang/CLionProjects/sort/2018-2-最大连续子序列.cpp">
+			<Option target="2018-2"/>
+		</Unit>
+		<Unit filename="/Users/wangyongjiang/CLionProjects/sort/2018-5-一元一次方程.cpp">
+			<Option target="2018-5"/>
+		</Unit>
+		<Unit filename="/Users/wangyongjiang/CLionProjects/sort/2020-2-斗牛.cpp">
+			<Option target="2020-2"/>
+		</Unit>
+		<Unit filename="/Users/wangyongjiang/CLionProjects/sort/2020-3-打地鼠.cpp">
+			<Option target="2020-3"/>
+		</Unit>
+		<Unit filename="/Users/wangyongjiang/CLionProjects/sort/2020-4-序列.cpp">
+			<Option target="2020-4"/>
+		</Unit>
+		<Unit filename="/Users/wangyongjiang/CLionProjects/sort/2020-5-二叉搜索树.cpp">
+			<Option target="2020-5"/>
+		</Unit>
+		<Unit filename="/Users/wangyongjiang/CLionProjects/sort/2021-1-二叉树.cpp">
+			<Option target="2021-1"/>
+		</Unit>
+		<Unit filename="/Users/wangyongjiang/CLionProjects/sort/BubbleSort.cpp">
+			<Option target="BubbleSort"/>
+		</Unit>
+		<Unit filename="/Users/wangyongjiang/CLionProjects/sort/HalfInsertSort.cpp">
+			<Option target="HalfInsertSort"/>
+		</Unit>
+		<Unit filename="/Users/wangyongjiang/CLionProjects/sort/HeapSort.cpp">
+			<Option target="HeapSort"/>
+		</Unit>
+		<Unit filename="/Users/wangyongjiang/CLionProjects/sort/MergeSort.cpp">
+			<Option target="MergeSort"/>
+		</Unit>
+		<Unit filename="/Users/wangyongjiang/CLionProjects/sort/QuickSort.cpp">
+			<Option target="QuickSort"/>
+		</Unit>
+		<Unit filename="/Users/wangyongjiang/CLionProjects/sort/ShellSort.cpp">
+			<Option target="ShellSort"/>
+		</Unit>
+		<Unit filename="/Users/wangyongjiang/CLionProjects/sort/SimpleSelectSort.cpp">
+			<Option target="SimpleSelectSort"/>
+		</Unit>
+		<Unit filename="/Users/wangyongjiang/CLionProjects/sort/Test.cpp">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="/Users/wangyongjiang/CLionProjects/sort/lcTest.cpp">
+			<Option target="lcTest"/>
+		</Unit>
+		<Unit filename="/Users/wangyongjiang/CLionProjects/sort/stl.cpp">
+			<Option target="stl"/>
+		</Unit>
+		<Unit filename="/Users/wangyongjiang/CLionProjects/sort/文件读取.cpp">
+			<Option target="io"/>
+		</Unit>
+		<Unit filename="/Users/wangyongjiang/CLionProjects/sort/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

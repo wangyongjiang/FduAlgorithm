@@ -1,0 +1,1 @@
+/usr/local/Cellar/gcc/11.2.0_3/bin/g++-11  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/HeapSort.dir/HeapSort.cpp.o  -o HeapSort 

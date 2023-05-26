@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wangyongjiang/CLionProjects/sort/MergeSort.cpp
+iostream
+-
+jarynUtils.h
+/Users/wangyongjiang/CLionProjects/sort/jarynUtils.h
+
+/Users/wangyongjiang/CLionProjects/sort/jarynUtils.h
+

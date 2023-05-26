@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wangyongjiang/CLionProjects/sort/Hong1.cpp
+iostream
+-
+string
+-
+vector
+-
+algorithm
+-
+map
+-
+jarynUtils.h
+/Users/wangyongjiang/CLionProjects/sort/jarynUtils.h
+
+/Users/wangyongjiang/CLionProjects/sort/jarynUtils.h
+
